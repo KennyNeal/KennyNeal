@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a rel="me" href="https://dataplatform.social/@KennyNeal">I'm on Mastodon now.</a>
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on infrastructure automation.
 
 <!--
 **KennyNeal/KennyNeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
